@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
 hellow Yelena, hi Hripsime
 hellow Sir, Hi Sir
 sdsdsdsd, this is change by Yelenagg
+=======
+hellow Yelena Sir
+hellow Sir 
+edit Sir
+>>>>>>> 146201a (cheng text file)
