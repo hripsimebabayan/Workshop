@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 hellow Yelena, hi Hripsime
 hellow Sir, Hi Sir
 sdsdsdsd, this is change by Yelenagg
 =======
 hellow Yelena Sir
+=======
+hellow Yelena Sir_edit
+>>>>>>> 8fb166d (change Sir)
 hellow Sir 
 edit Sir
 >>>>>>> 146201a (cheng text file)
